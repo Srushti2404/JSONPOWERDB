@@ -41,10 +41,10 @@ _ JsonPowerDb<br>
 _ Netbeans Connector (Extension in chrome)<br>
 
 ## Illustrations
-![d1](https://github.com/Srushti2404/JSONPOWERDB/main/demo/d1.png)
-![d2](https://github.com/Srushti2404/JSONPOWERDB/main/demo/d2.png)
-![d3](https://github.com/Srushti2404/JSONPOWERDB/main/demo/d3.png)
-![d4](https://github.com/Srushti2404/JSONPOWERDB/main//demo/d4.png)
+![d1](https://github.com/Srushti2404/JSONPOWERDB/assets/139379529/707123f0-05e5-4756-ab1d-794f8b02a6e7)
+![d2](https://github.com/Srushti2404/JSONPOWERDB/assets/139379529/b342004d-e1a4-4b2b-a3b6-2d5bf62b19a4)
+![d3](https://github.com/Srushti2404/JSONPOWERDB/assets/139379529/e6164098-dd4c-472d-b16e-b75a2bb52f03)
+![d4](https://github.com/Srushti2404/JSONPOWERDB/assets/139379529/6191998d-ed2d-471f-b263-32c055a7d326)
 
 ## Scope of functionalities 
 •	All Mobile applications that require backend database.<br>
